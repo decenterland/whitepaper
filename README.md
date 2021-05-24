@@ -40,8 +40,8 @@ As of today there are no decentralized systems in place that can allow for offch
 II.Architecture
 ----------------
 
-The Decentral network will integrate with multiple cryptocurrencies starting with Algorand.
-Using Bitcoin’s Blockchain scripting capabilities, the Decentral network can create a special transaction and post it on the Bitcoin network with special instructions that may require 7 out of 10 Decentral network servers to spend this transaction, with each Decentral server storing a private key you would need more than 3 nodes being offline or hacked before being unable to move the funds. For security purposes, an emergency withdrawal address will be implemented in order for the depositors to recoup their funds, by using the nlocktime feature of the Bitcoin protocol which allows for any transaction to be accepted after x amount of time, the funds will be transmitted to the withdrawal address automatically by the blockchain should more than n nodes become compromised or go offline. For metacoins on top of the Bitcoin blockchain Decentral will implement both Colored Coins and Counterparty protocols. Colored Coins provides a way to tokenize Bitcoins by marking transaction outputs. These protocols do not possess the economic barrier to entry of requiring the purchase of a generic metacoin to buy the issued underlying asset unlike other metacoin protocols issued on top of bitcoin, this makes it an attractive protocol to issue new metacoins or tokens on top of the Bitcoin platform.
+The dCENTERLAND network will integrate with multiple cryptocurrencies however entry is based on 1 DCNTR = 1 Algorand where 1 decenterland=passport
+https://www.arweave.org/technology#papers
 
 
 
