@@ -25,6 +25,9 @@ https://algoexplorer.io/asset/226608164
 and can be seen visually and recognized by a metahash
 https://app.originmint.io/#/nft/226608164
 
+web 3.0 is emerging as per this example of DNS to IPFS gateway bridge
+<a href="http://centerland.xyz">centerland</> bridge to <a href="decenterland.crypto">decenterland</a>
+
 I.History
 -----------
 
