@@ -1,33 +1,46 @@
-Decentral : A Decentralized Offchain Banking System
+dCENTERLAND : A decentralized Offchain storage system. An island of encrypted private folders akin to a shared island of buried treasure. Where the actions of one user do not affect the data of the other users. A virutal island of safety deposit boxes where your passport is the key. Lose your NFT passport lose your island priviledges. With the power of ipfs dCENTERLAND is pleased to announce a one time fee for data storage. Pay once have access "forever".
 ======================================================
-   Authors: Uwe Cerron, Leo Shao
+dDENTERLAND
+NOW and FOREVER
+######################################################
+Authors: Uwe Cerron, Leo Shao
 uwecerron@gmail.com,lshao30@gmail.com
+dcent@tuta.io
 
 ### Abstract
 In the absence of trust opportunities can be lost. A typical solution involves trusting a third party to mediate a transaction across parties for a fee becoming the single point of failure throughout the whole process [1].  Almost every sector in the economy that involves a third party runs the risk of loss to the consumer. A purely offchain peer to peer network may allow for trust free trade trust from one party to another without having to register the transactions on the Blockchain. Multiple signature technology may allow for the network to perform the roles of a decentralized arbiter and notary [4], combined with the ability to issue tokens representative of such funds it may provide a trust free mechanism for trade and investment.
 
-The decentralized offchain network allows for the identification and distribution of cryptocoins and metacoins definitions on top of Bitcoin within the network and will only track the last state of ownership of the coins, through this only the last transaction to withdraw coins from the network will be recorded in the Blockchain. Through multisignature technology the network can act as an autonomous escrow agent for decentralized companies and software. Nodes within the network may choose any token integrated within the network as a payment fee for their escrow service. Due to the representation of cryptographic networks as tokens for access to services through decentralized applications we believe the Decentral tokens or “credits” may prove to be a generic token for payment among these networks. Without the need for access to the Blockchain, Decentral is an offchain network for smart contracts and tokens that can be traded with the properties of anonymity, fungibility, the ability to store and accumulate value of a single or a bundle of tokens which with the advent of decentralized applications may represent access to public goods.
+The decenterland offchain IPFS network allows for the identification and distribution of private storage with public key mapping. The network will only track the last state of ownership of the passport to correlate with the opening of the treasure chest. Only the last transaction to withdraw your private data from the network will be recorded in the Blockchain to control state. Through multisignature technology the network can act as an autonomous escrow agent for decentralized companies and software. Nodes within the network may choose any token integrated within the network as a payment fee for their storage service. Due to the representation of cryptographic networks as tokens for access to services through decentralized applications. One decenterland DCTR “credits” is required to recieve your dCENTERLAND passport.key to your treasure.chest (folder). 210000 decenterland DCTR have been minted and exchange at 1:1 with algorand or equivalent token 
 
+dcenterland DCTR
+https://algoexplorer.io/asset/205183641
+total.supply=210000
+
+10000 DCTR will be held in the reserve address for developent work, airdrop and decenterland.crypto self storage backup. 
+
+dCENTERLAND is an offchain data storage island providing anonymity and the ability to store and accumulate value of a single or bunde of private data assets.
+
+users will recognize entry into dCENTERLAND by NFT asset #226608164
+https://algoexplorer.io/asset/226608164
+and can be seen visually and recognized by a metahash
+https://app.originmint.io/#/nft/226608164
 
 I.History
 -----------
 
-Bitcoin is the first decentralized cryptographic network which has been a major accomplishment of concepts that originated since the 80s. Bitcoin introduced the concept of a proof of work ledger, provided a decentralized consensus protocol to organize transactions and used the proof of work algorithm as a mechanism to confirm them. The Bitcoin scripting system relies on a series of inputs and outputs. Each input is in a certain position, has a value and an address, and has a unique identifying txid number. The outputs can be one or many, and they are a list of addresses and values respectively. Lastly, signing is implemented using public and private keys for encryption which provides for an elegant solution to the ”Byzantine General problem” [6].
+Bitcoin is Grandpa. Grandpa is all brawn and no brains. Bitcoin introduced the concept of a proof of work ledger. Ethereum is Grandma. Grandma is smarter than Grandpa. Grandma and Grandpa have had many children. Algorand, their first son introduced proof of stake. Zilliqa, their little girl, introduced sharding and speed. As the cryptoverse expands into more and more offspring dCENTERLAND recognizes that this is just the begining. Plagued by 19 email addresses, 17 wallets on 6 blockchains and hundreds of pnumonic phrases and private images created dCENTERLAND as a decentralized storage space on the decentralized web that will hold my data until I need to retrieve it. Using GnuPG and TOMB makes it possible to bury my treasure into a solid cryptographic tomb.
 
-Since its inception Bitcoin has been plagued with scams and badly managed services. Examples such as a recent Bitcoin exchange that lost hundreds of millions of dollars are unacceptable. Multisig technology offers a solution to these events. These accounts can be traditionally used as an escrow requiring m of n signatures to confirm the spending of any input, but it may suffer from extortion, collusion, bad judgment, and the usual problems which arise should the third parties be involved.
-Multi signature third party services include digitally signing contracts and transactions providing an extra layer of security for transactions, others plan to use it as mediators in the event of a dispute between the buyer and the seller. The arbitration aspect of their role would be to decide the fair outcome of a dispute[4]. However, the system still depends on a centralized entity or service to work as a third party.
+The Bitcoin scripting system relies on a series of inputs and outputs. Each input is in a certain position, has a value and an address, and has a unique identifying txid number. The outputs can be one or many, and they are a list of addresses and values respectively. Lastly, signing is implemented using public and private keys for encryption which provides for an elegant solution to the ”Byzantine General problem” [6].
 
-As of today there are no decentralized systems in place that can allow for offchain trust free exchange of services without the single point of failure associated with a third party service, users of the service cannot obtain the guarantee that the service provider may not run with the user’s money. It is clear that the Bitcoin ecosystem is trending towards a trust free transactions ecosystem, a trust free entity is needed to escrow funds impartially without the risk of collusion.
+Multisig technology and contracts create dCENTERLAND as a DAO
 
-This protocol system solves these problems in a very simple and discrete manner which will greatly reduce the risk of loss, allow for trustless smart contracts, and allow trade between perfect strangers even if the parties themselves cannot be trusted and with mainstream adoption it may provide a return on Bitcoin deposits without the risk inherent in a centralized entity. The system would be implemented as a decentralized offchain transaction system to address blockchain based cryptocurrencies need for speed, micro payments through no or low transaction fees and offer a possible investment framework through bitcoin backed tokens.
-
+As of today there are no decentralized systems in place that can allow for offchain trust free exchange of services without the single point of failure associated with a third party service, users of the service cannot obtain the guarantee that the service provider may not run with the user’s money. It is clear that their is a need for trust free private storage transactions.
 
 
 II.Architecture
 ----------------
 
-The Decentral network will integrate with multiple cryptocurrencies starting with Bitcoin. Each network server will have an option to charge its escrow fee in the desired cryptocurrency of choice. Each server will have a table of colored coins definitions which are recorded in the Bitcoin Blockchain upon issuance, this way each node becomes a decentralized asset definition for the colored coins protocol. We plan on implementing an infinite divisible protocol where the 1 satoshi per token atomicity is no longer in place, but for now the Decentral Network will adopt the EPOBC color kernel.
-
+The Decentral network will integrate with multiple cryptocurrencies starting with Algorand.
 Using Bitcoin’s Blockchain scripting capabilities, the Decentral network can create a special transaction and post it on the Bitcoin network with special instructions that may require 7 out of 10 Decentral network servers to spend this transaction, with each Decentral server storing a private key you would need more than 3 nodes being offline or hacked before being unable to move the funds. For security purposes, an emergency withdrawal address will be implemented in order for the depositors to recoup their funds, by using the nlocktime feature of the Bitcoin protocol which allows for any transaction to be accepted after x amount of time, the funds will be transmitted to the withdrawal address automatically by the blockchain should more than n nodes become compromised or go offline. For metacoins on top of the Bitcoin blockchain Decentral will implement both Colored Coins and Counterparty protocols. Colored Coins provides a way to tokenize Bitcoins by marking transaction outputs. These protocols do not possess the economic barrier to entry of requiring the purchase of a generic metacoin to buy the issued underlying asset unlike other metacoin protocols issued on top of bitcoin, this makes it an attractive protocol to issue new metacoins or tokens on top of the Bitcoin platform.
 
 
