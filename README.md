@@ -19,7 +19,7 @@ dcenterland DCTR
 https://algoexplorer.io/asset/205183641
 total.supply=210000
 
-10000 DCTR will be held in the reserve address for developent work, airdrop and decenterland.crypto self storage backup. 
+10000 DCNTR will be held in the reserve address for developent work, airdrop and decenterland.crypto self storage backup a.k.a "my treasures". Once system is working remaining DCNTR will be added to the DAO contract wallet address where anyone, including me, will need to pay 1 Algorand for a passport. Note, due to cryptographic reality in dCENTERLAND treasure chests can grow, but they cannot shrink. A system of increasing the size of your treasure chest may be implemented at the cost of DCNTR where every doubling of the size of one folder removes the possibilty of a second folder. This scenario is reasonable. 
 
 dCENTERLAND is an offchain data storage island providing anonymity and the ability to store and accumulate value of a single or bunde of private data assets.
 
