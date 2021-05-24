@@ -2,9 +2,12 @@ dCENTERLAND : A decentralized Offchain storage system. An island of encrypted pr
 ======================================================
 dDENTERLAND
 NOW and FOREVER
-######################################################
+###################################################################################
+The decenterland whitepaper outline is abstracted from the decentralbank whitepaper
 Authors: Uwe Cerron, Leo Shao
 uwecerron@gmail.com,lshao30@gmail.com
+###################################################################################
+further edits and updates to follow
 dcent@tuta.io
 
 ### Abstract
